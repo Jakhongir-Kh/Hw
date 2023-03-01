@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Region {
+public class Region extends Country{
 }

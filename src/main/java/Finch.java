@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface Finch {
+public class Finch implements Bird {
+
+    void fAction(){
+        sit();
+        takeOff();
+    }
 }

@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Swallow {
+public class Swallow implements Bird{
+    void sAction(){
+        sit();
+        takeOff();
+    }
 }
